@@ -15,6 +15,7 @@ build*/
 
 # Generated register headers
 hw/ip/*/sw
+hw/ip/
 hw/top_englishbreakfast/
 hw/top_darjeeling/
 hw/top_earlgrey/
